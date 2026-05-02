@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<h1>
+<head>
+  <title> 
+</head>
 What career area are you planning after graduation?
 What topics in writing with digital technologies were you most interested to learn about, and why?
 What topics or skills do you think you'll use in your future work in technical communication? Describe how you might leverage one or more of these tools and technologies in your future career.
