@@ -2,11 +2,25 @@
 <html lang="en">
 
 <head>
-  <title> 
+  <title>Final Reflection for WRIT 4662W</title>
 </head>
-What career area are you planning after graduation?
-What topics in writing with digital technologies were you most interested to learn about, and why?
-What topics or skills do you think you'll use in your future work in technical communication? Describe how you might leverage one or more of these tools and technologies in your future career.
-How will you continue to grow new skills in the future? Include a Personal Learning Network diagram as part of your answer.
+
+<body>
+  <h1>What career area are you planning after graduation?</h1>
+  <p></p>
+
+  <h1>What topics in writing with digital technologies were you most interested to learn about, and why?</h1>
+  <p></p>
+
+  <h1>What topics or skills do you think you'll use in your future work in technical communication?</h1>
+  <h2>Describe how you might leverage one or more of these tools and technologies in your future career.</h2>
+  <p></p>
+
+  <h1>How will you continue to grow new skills in the future? Include a Personal Learning Network diagram as part of your answer.</h1>
+  <p></p>
+</body>
+
+</html>
+
 The reflection should be 500 to 600 words. You do not need to create this assignment using one of the tools or technologies we learned this semester.
 
