@@ -8,4 +8,10 @@ The Final Assignments for WRIT 4662W Writing With Digital Literacies
 * README.md
 
 # Final Commentary
+## Why I chose LibreOffice For My Final Project
 
+## Trade-offs and Decisions
+
+## Pros and Cons
+
+The commentary should be 500 to 600 words and included as README.md in your GitHub project.
